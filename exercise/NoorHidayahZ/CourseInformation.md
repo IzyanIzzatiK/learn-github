@@ -6,6 +6,13 @@ Welcome to the Computational Biology course! This course is designed to introduc
 
 ## Course Details
 
+<div class="center">
+  <img src="[image.jpg" alt="Centered Image](https://github.com/NoorHidayahZ/learn-github/blob/main/exercise/NoorHidayahZ/images/readme.md)">
+</div>
+
+</body>
+</html>
+
 - **Course Code:** SECB4243
 - **Instructor:** Dr. Noor Hidayah Zakaria
 - **Credits:** 3
