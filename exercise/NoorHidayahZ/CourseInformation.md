@@ -7,7 +7,7 @@ Welcome to the Computational Biology course! This course is designed to introduc
 ## Course Details
 
 <p align="center">
-  <img src="(https://github.com/NoorHidayahZ/learn-github/blob/main/exercise/NoorHidayahZ/images/hidayah%20image.jpg)" height: "100">
+  <img src="https://github.com/NoorHidayahZ/learn-github/blob/main/exercise/NoorHidayahZ/images/hidayah%20image.jpg" height: "100">
 </p>
 
 
