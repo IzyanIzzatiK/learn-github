@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
+
 </style>
 </head>
 <body>
